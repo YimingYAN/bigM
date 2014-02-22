@@ -8,8 +8,7 @@ linear programming problem in the following format
   s.t.   Ax {>=, =, <=} b
   x >= 0
     
-This class is designed for class demonstration and small problems,
-may not be suitable for large problem or for high performance.
-
+This class is designed for class demonstration and small problems.
+May not be suitable for solving large problems or for high performance purpose. 
 
 Yiming Yan
